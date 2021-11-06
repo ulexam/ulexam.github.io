@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 0rem;
+  background-color: #e2edff;
+}
+#projects {
+  background-color: #e2edff;
+}
+
+#cmc {
+  background-image: url('img/profil.jpg');
+  background-size: 100rem;
+}
+section {
+  padding-top: 5rem;
+}
